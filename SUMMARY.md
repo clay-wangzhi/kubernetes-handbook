@@ -4,3 +4,4 @@
 
 ## 部署配置
 
+* [kubeadm部署](Install/kubadm.md	)
